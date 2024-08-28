@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AEC359-3C70-4274-BC08-12E42CA91CB1}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleanarchitecture.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AEC359-3C70-4274-BC08-12E42CA91CB1}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71404-E736-49E1-AB55-FE1B939AE4E8}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC71404-E736-49E1-AB55-FE1B939AE4E8}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC71404-E736-49E1-AB55-FE1B939AE4E8}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DC71404-E736-49E1-AB55-FE1B939AE4E8}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C7C238-79AE-4F53-BE62-CC300D24C861}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C7C238-79AE-4F53-BE62-CC300D24C861}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAE6A0A-397B-4292-86B4-83A5BBAFA936}|CleanCleanArchitecture\\CleanCleanArchitecture.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleancleanarchitecture\\cleancleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AAE6A0A-397B-4292-86B4-83A5BBAFA936}|CleanCleanArchitecture\\CleanCleanArchitecture.csproj|solutionrelative:cleancleanarchitecture\\cleancleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAE6A0A-397B-4292-86B4-83A5BBAFA936}|CleanCleanArchitecture\\CleanCleanArchitecture.csproj|c:\\users\\lenovo\\source\\repos\\cleanarchitecture\\cleancleanarchitecture\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAE6A0A-397B-4292-86B4-83A5BBAFA936}|CleanCleanArchitecture\\CleanCleanArchitecture.csproj|solutionrelative:cleancleanarchitecture\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CleanArchitecture.API\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:22:21.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CleanArchitecture.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T00:40:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Blog.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:39:48.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Service\\BlogService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Service\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Service\\BlogService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Service\\BlogService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:23:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanCleanArchitecture\\Data\\BlogDbcontext.cs",
+              "RelativeDocumentMoniker": "CleanCleanArchitecture\\Data\\BlogDbcontext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanCleanArchitecture\\Data\\BlogDbcontext.cs",
+              "RelativeToolTip": "CleanCleanArchitecture\\Data\\BlogDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:27:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CleanCleanArchitecture.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanCleanArchitecture\\CleanCleanArchitecture.csproj",
+              "RelativeDocumentMoniker": "CleanCleanArchitecture\\CleanCleanArchitecture.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CleanArchitecture\\CleanCleanArchitecture\\CleanCleanArchitecture.csproj",
+              "RelativeToolTip": "CleanCleanArchitecture\\CleanCleanArchitecture.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T16:26:30.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

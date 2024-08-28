@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanCleanArchitecture.deps.json
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanCleanArchitecture.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanCleanArchitecture.dll
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanCleanArchitecture.pdb
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCle.0DB24BAA.Up2Date
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.dll
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\refint\CleanCleanArchitecture.dll
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.pdb
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\CleanCleanArchitecture.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CleanArchitecture\CleanCleanArchitecture\obj\Debug\net8.0\ref\CleanCleanArchitecture.dll
